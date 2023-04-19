@@ -1,1 +1,1 @@
-More on SQL
+Solution to 0x0E. SQL - More queries
